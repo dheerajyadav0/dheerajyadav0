@@ -16,7 +16,8 @@
 ###
 
 <h1 align="center" style="color: #ff6b6b; font-family: Arial, sans-serif;">
-  Hey There, I'm DHEERAJ
+  Hey There, ![download](https://github.com/user-attachments/assets/483820c9-d528-48d6-90c2-f89ad444d495)
+'m DHEERAJ
 </h1>
 
 ###
