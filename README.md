@@ -1,6 +1,6 @@
 <div align="right">
-  <img height="150" src=""C:\Users\zdhee\OneDrive\tele\images.png"
-"  />
+  <img height="150" src="C:\Users\zdhee\OneDrive\tele\images.png"
+  />
 </div>
 
 ###
