@@ -1,5 +1,6 @@
-<div align="center">
-  <img height="150" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg"  />
+<div align="righ">
+  <img height="150" src="![image](https://github.com/user-attachments/assets/4a7bd0aa-24af-4767-8e34-5f8f8dd01236)
+"  />
 </div>
 
 ###
