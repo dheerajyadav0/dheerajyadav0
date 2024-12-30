@@ -1,4 +1,4 @@
-
+<img align="right" height="150" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg"  />
 
 
 <div align="center">
@@ -6,6 +6,10 @@
 </div>
 
 ###
+
+
+https://github.com/user-attachments/assets/919738d2-0f7d-4941-9823-8fb33eac485a
+
 
 <h1 align="center">hey there 👋</h1>
 
