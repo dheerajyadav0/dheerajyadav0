@@ -10,12 +10,6 @@
 ###
 
 
-
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h1 align="center" style="color: #ff6b6b; font-family: Arial, sans-serif;">
    I'm DHEERAJ
 </h1>
