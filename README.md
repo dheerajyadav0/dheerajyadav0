@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.blog/wp-content/uploads/2021/02/card.png?fit=1200%2C630"  />
+  <img src="https://github.blog/wp-content/uploads/2021/02/card.png?fit=1200%2C63"  />
 </div>
 
 ###
