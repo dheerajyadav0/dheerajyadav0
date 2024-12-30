@@ -4,25 +4,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://leetcode.com/u/Dheeraj0905/" target="_blank">
-    <img src="https://www.google.com/imgres?q=leetcode%20image&imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-256%2Ffree-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png%3Ff%3Dwebp&imgrefurl=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fleetcode-3521542&docid=LzcDFX7B6Ny7PM&tbnid=hZA069JoomnAeM&vet=12ahUKEwid4Lji88-KAxX22TgGHRIbLFIQM3oECBoQAA..i&w=256&h=256&hcb=2&ved=2ahUKEwid4Lji88-KAxX22TgGHRIbLFIQM3oECBoQAA" height="35" alt="leetcode logo"  />
-  </a>
-  <a href="https://www.instagram.com/__dheeraj_0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/zdheerai8z4/" target="_blank">
-    <img src="https://www.google.com/imgres?q=gfg%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F43%2FGeeksforGeeks.svg%2F2560px-GeeksforGeeks.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGeeksforGeeks.svg&docid=awzfEJt4os2MqM&tbnid=1_9SYDTr3EFsNM&vet=12ahUKEwj9spLi9M-KAxUpxTgGHWcPOmYQM3oECB0QAA..i&w=2560&h=1306&hcb=2&ved=2ahUKEwj9spLi9M-KAxUpxTgGHWcPOmYQM3oECB0QAA" height="35" alt="gfg logo"  />
-  </a>
-  <a href="https://www.codechef.com/users/simpyad98" target="_blank">
-    <img src="https://www.google.com/imgres?q=codechef%20image&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064590378067&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FCodeChef%2F&docid=RlUs-lNh8-fLKM&tbnid=DFEBkkMkq1vkvM&vet=12ahUKEwiPiK_P9M-KAxUF3jgGHfT3EqUQM3oECGoQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiPiK_P9M-KAxUF3jgGHfT3EqUQM3oECGoQAA" height="35" alt="code chef logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yadavdheeraj-xx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
 
 
 <div align="center">
@@ -42,7 +24,15 @@
 <p align="left">🌟 Passionate Developer & Lifelong Learner<br>Hi, I'm a dedicated problem solver with a keen interest in crafting efficient and scalable solutions. With expertise in both front-end and back-end development, I love building user-friendly applications and exploring innovative technologies. My journey is driven by curiosity and a commitment to continuous growth. 🚀<br>-📫 How to reach me zdheerajyadav@gmail.com</p>
 
 ###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yadavdheeraj-xx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandini-sharma-657894316" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__dheeraj_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__dheeraj_0" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Dheeraj0905/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dheeraj" height="30" width="40" /></a>
+ 
 
+</p>
+###
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
