@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🌟 Passionate Developer & Lifelong Learner<br>Hi, I'm a dedicated problem solver with a keen interest in crafting efficient and scalable solutions. With expertise in both front-end and back-end development, I love building user-friendly applications and exploring innovative technologies. My journey is driven by curiosity and a commitment to continuous growth. 🚀<br>-📫 How to reach me zdheerajyadav@gmail.com</p>
+<p align="left">🌟 Passionate Developer & Lifelong Learner<br>Hi, I'm a dedicated problem solver with a keen interest in crafting efficient and scalable solutions. With expertise in both front-end and back-end development, I love building user-friendly applications and exploring innovative technologies. My journey is driven by curiosity and a commitment to continuous growth. 🚀</p>
 
 ###
 <h3 align="left">Connect with me:</h3>
@@ -32,7 +32,7 @@
 </a>
 
 </p>
-###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -83,7 +83,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">   My Stats :</h3>
 
 ###
 
