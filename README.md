@@ -15,7 +15,9 @@
 
 ###
 
-<h3 align="left">👩‍💻  Hi , I am DHEERAJ</h3>
+<h1 align="center" style="color: #ff6b6b; font-family: Arial, sans-serif;">
+  Hey There, I'm DHEERAJ
+</h1>
 
 ###
 
