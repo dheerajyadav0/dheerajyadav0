@@ -1,4 +1,7 @@
-<img align="right" height="150" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg"  />
+<div align="center">
+  <img height="150" src="https://github.blog/wp-content/uploads/2021/02/card.png?fit=1200%2C630"  />
+</div>
+
 ###
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dheerajyadav0.dheerajyadav0&"  />
