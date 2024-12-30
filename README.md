@@ -5,8 +5,6 @@
 ###
 
 
-
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dheerajyadav0.dheerajyadav0&"  />
 </div>
@@ -29,7 +27,9 @@
 <a href="https://www.linkedin.com/in/yadavdheeraj-xx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandini-sharma-657894316" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__dheeraj_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__dheeraj_0" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Dheeraj0905/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dheeraj" height="30" width="40" /></a>
- 
+ <a href="mailto:zdheerajyadav@gmail.com" target="_blank">
+  <img align="center" src="https://static.vecteezy.com/system/resources/previews/022/484/516/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" height="30" width="40" />
+</a>
 
 </p>
 ###
@@ -94,8 +94,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dheerajyadav0/dheerajyadav0/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dheerajyadav0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
