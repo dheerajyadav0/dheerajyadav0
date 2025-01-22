@@ -1,11 +1,7 @@
-<div align="center">
-  <img src=""  />
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Hi+I+am+Dheeraj++%F0%9F%91%8B%F0%9F%8F%BB+!" />
+</h1>
 
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dheerajyadav0.dheerajyadav0&"  />
-</div>
 
 ###
 
