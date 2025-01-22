@@ -5,13 +5,6 @@
 
 ###
 
-
-<h1 align="center" style="color: #ff6b6b; font-family: Arial, sans-serif;">
-   I'm DHEERAJ
-</h1>
-
-###
-
 <p align="left"><b>🌟 Passionate Developer & Lifelong Learner<br>Hi, I'm a dedicated problem solver with a keen interest in crafting efficient and scalable solutions. With expertise in both front-end and back-end development, I love building user-friendly applications and exploring innovative technologies. My journey is driven by curiosity and a commitment to continuous growth.</b> 🚀</p>
 
 ###
